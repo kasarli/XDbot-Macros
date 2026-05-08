@@ -2,4 +2,5 @@
 This repository contains macros for various levels in geometry dash. Theese are only compatable with the XDbot geode mod.
 If a macro requires a certain ammount of TPS or FPS it will be included in the release.
 
-The mod is currently outdated and does not work for the latest geometry dash version but once it updates I will begin adding macros immediatly.
+
+# The mod is currently outdated and does not work for the latest geometry dash version but once it updates I will begin adding macros immediatly.
